@@ -1,5 +1,12 @@
 matyja\projects\config\WebConfig.class
-matyja\projects\service\DemoServiceImpl.class
+matyja\projects\controller\TodoItemController.class
+matyja\projects\model\TodoItem.class
 matyja\projects\config\WebAppInitializer.class
-matyja\projects\service\DemoService.class
+matyja\projects\model\TodoData.class
 matyja\projects\controller\DemoController.class
+matyja\projects\service\TodoItemService.class
+matyja\projects\service\DemoServiceImpl.class
+matyja\projects\service\DemoService.class
+matyja\projects\service\TodoItemServiceImpl.class
+matyja\projects\util\Mappings.class
+matyja\projects\util\ViewNames.class
