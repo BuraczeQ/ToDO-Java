@@ -1,0 +1,5 @@
+matyja\projects\config\WebConfig.class
+matyja\projects\service\DemoServiceImpl.class
+matyja\projects\config\WebAppInitializer.class
+matyja\projects\service\DemoService.class
+matyja\projects\controller\DemoController.class
