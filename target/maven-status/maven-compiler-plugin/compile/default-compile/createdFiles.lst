@@ -10,3 +10,4 @@ matyja\projects\service\DemoService.class
 matyja\projects\service\TodoItemServiceImpl.class
 matyja\projects\util\Mappings.class
 matyja\projects\util\ViewNames.class
+matyja\projects\util\AttributeNames.class
