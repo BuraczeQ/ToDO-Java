@@ -10,7 +10,7 @@
 <body>
     <div align="center">
        <c:url var="itemsUrl" value="items"/>
-           <a href="${itemsUrl}">Items </a>
+           <a href="${itemsUrl}">Show Todo Items </a>
 
     </div>
 
