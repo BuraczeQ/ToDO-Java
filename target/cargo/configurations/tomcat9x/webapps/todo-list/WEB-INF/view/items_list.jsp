@@ -3,17 +3,17 @@
 <html>
 <head>
     <title>Todo Items</title>
+    <style><%@include file="/WEB-INF/view/styles/items_list.css"%></style>
 </head>
 <body>
     <div align="center">
-    <c:url var="addUrl" value="addItem"/>
-    <a href="${addUrl}">New Item</a>
+
 
         <table border="1" cellpadding="5">
 
             <caption><h2>Todo Items</h2></caption>
 
-            <tr>
+            <tr id="ColNames">
                 <th>Title</th>
                 <th>Deadline</th>
                 <th>Edit</th>
@@ -45,6 +45,10 @@
                 </tr>
             </c:forEach>
         </table>
+        <div id="addNew">
+              <c:url var="addUrl" value="addItem"/>
+              <a id="newItemText" href="${addUrl}">New Item</a>
+         </div>
     </div>
 
 </body>

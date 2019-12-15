@@ -1,0 +1,30 @@
+body
+{
+background-color:#d0e4fe;
+}
+h1
+{
+color:#303030;
+text-align:center;
+
+
+}
+h2
+{
+color:#303030;
+
+}
+p
+{
+font-family:"Times New Roman";
+font-size:20px;
+}
+#showTODO{
+font-family:"Times New Roman";
+font-size:25px;
+margin-top:30px;
+color:#303030;
+}
+#showTODO:hover{
+color:#202020
+}

@@ -14,11 +14,11 @@ public class TodoData {
     //== constructors ==
     public TodoData(){
         // DUMMY DATA ======================================
-        addItem(new TodoItem("first", "details 1st", LocalDate.now()));
-        addItem(new TodoItem("second", "details 2nd", LocalDate.now()));
-        addItem(new TodoItem("third", "details 3rd", LocalDate.now()));
-        addItem(new TodoItem("forth", "details 4th", LocalDate.now()));
-        addItem(new TodoItem("fifth", "details 5th", LocalDate.now()));
+        addItem(new TodoItem("First", "details 1st", LocalDate.now()));
+        addItem(new TodoItem("Second", "details 2nd", LocalDate.now()));
+        addItem(new TodoItem("Third", "details 3rd", LocalDate.now()));
+        addItem(new TodoItem("Forth", "details 4th", LocalDate.now()));
+        addItem(new TodoItem("Fifth", "details 5th", LocalDate.now()));
     }
 
     //== Public Methods ==
